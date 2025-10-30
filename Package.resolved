@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dictionarycoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dalemyers/DictionaryCoder",
+      "state" : {
+        "revision" : "dac461a222bf7501b93157e5c75c3f22cf553a54",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
